@@ -71,8 +71,7 @@ name {
   border-spacing:0px;
   border-collapse:separate;
   margin-right:auto;
-  margin-left:auto;
-  margin-bottom:2px;  
+  margin-left:auto; 
 }
 
 #awards {
@@ -87,10 +86,6 @@ name {
 .topbar a:hover {
   text-decoration: underline;
   font-weight: 600;
-}
-
-.paperlinks{
-  padding-top: 10px;
 }
 
 .research 
